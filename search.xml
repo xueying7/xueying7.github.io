@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>苹果</title>
-    <url>/2021/12/06/hello-world/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Android</category>
-      </categories>
-      <tags>
-        <tag>HelloWorld</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇文章</title>
-    <url>/2022/03/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>java</category>
-      </categories>
-  </entry>
-  <entry>
     <title>英语语法—介词</title>
     <url>/2022/03/21/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E2%80%94%E4%BB%8B%E8%AF%8D/</url>
     <content><![CDATA[<h1 id="一-介词的含义"><a href="#一-介词的含义" class="headerlink" title="(一) 介词的含义"></a>(一) 介词的含义</h1><p>​    英语前置词（preposition ，adposition的一种，还有后置词postposition），表示名词、代词等与句中其它词的关系，在句中不能单独作<a href="https://baike.baidu.com/item/%E5%8F%A5%E5%AD%90%E6%88%90%E5%88%86/5695962">句子成分</a>。介词后面一般有名词、代词或相当于名词的其他<a href="https://baike.baidu.com/item/%E8%AF%8D%E7%B1%BB/5310343">词类</a>、短语或从句作它的<a href="https://baike.baidu.com/item/%E5%AE%BE%E8%AF%AD/87544">宾语</a>，表示与其他成分的关系。</p>
 <p>前置词和它的宾语构成介词<a href="https://baike.baidu.com/item/%E8%AF%8D%E7%BB%84/8481390">词组</a>，在句中作<a href="https://baike.baidu.com/item/%E7%8A%B6%E8%AF%AD/882">状语</a>，<a href="https://baike.baidu.com/item/%E8%A1%A8%E8%AF%AD/2017501">表语</a>，<a href="https://baike.baidu.com/item/%E8%A1%A5%E8%AF%AD/2647235">补语</a>，<a href="https://baike.baidu.com/item/%E5%AE%9A%E8%AF%AD/2645898">定语</a>或介词宾语。同时介词的用法也很灵活，同一个介词可以表达多种意义，介词可以分为<a href="https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E4%BB%8B%E8%AF%8D/6697743">时间介词</a>、地点介词、方式介词、原因介词、数量介词和其他介词。</p>
 <p>前置词一般用于<a href="https://baike.baidu.com/item/%E5%90%8D%E8%AF%8D/502047">名词</a>或者代词前面，表示该词与句中其他成分的关系。前置词后面的名词或代词称为前置词的宾语（如果是<a href="https://baike.baidu.com/item/%E4%BA%BA%E7%A7%B0%E4%BB%A3%E8%AF%8D/10189208">人称代词</a>，则要用宾格）。前置和宾语合在一起构成前置词短语。</p>
-<h1 id="二-介词的构成形式"><a href="#二-介词的构成形式" class="headerlink" title="(二) 介词的构成形式"></a>(二) 介词的构成形式</h1><h2 id="简单介词-prep"><a href="#简单介词-prep" class="headerlink" title="简单介词(prep)"></a>简单介词(prep)</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">in 在...里; ...</span><br><span class="line">to 朝; ...</span><br><span class="line">with...和; ...	</span><br></pre></td></tr></table></figure>
+<h1 id="二-介词的构成形式"><a href="#二-介词的构成形式" class="headerlink" title="(二) 介词的构成形式"></a>(二) 介词的构成形式</h1><h2 id="简单介词-prep"><a href="#简单介词-prep" class="headerlink" title="简单介词(prep)"></a>简单介词(prep)</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">in	在...里; ...</span><br><span class="line">to	朝; ...</span><br><span class="line">with	...和; ...	</span><br></pre></td></tr></table></figure>
 
 
 
 <h2 id="短语介词"><a href="#短语介词" class="headerlink" title="短语介词"></a>短语介词</h2><p>​    视作介词，不单独表完整意义</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">by way of	通过...方式 	&lt;=	介词+名词+介词</span><br><span class="line">at the end of		在...的最后	&lt;=	介词+the+名词</span><br><span class="line">along with	和...在一起	&lt;=	介词+介词</span><br><span class="line">because of	因为...	&lt;=	连词+介词</span><br><span class="line">previous to	...之前	&lt;=	形容词+介词</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">by way of	通过...方式 	&lt;=	介词+名词+介词</span><br><span class="line">at the end of	在...的最后	&lt;=	介词+the+名词</span><br><span class="line">along with	和...在一起	&lt;=	介词+介词</span><br><span class="line">because of	因为...	&lt;=	连词+介词</span><br><span class="line">previous to	...之前	&lt;=	形容词+介词</span><br></pre></td></tr></table></figure>
 
 
 
@@ -53,9 +34,54 @@
 
 
 
-<h3 id="over-覆盖-在…上方-越过上方"><a href="#over-覆盖-在…上方-越过上方" class="headerlink" title="over    覆盖;在…上方;越过上方"></a><strong>over    覆盖;在…上方;越过上方</strong></h3><hr>
+<h3 id="over-覆盖-在…上方-越过上方"><a href="#over-覆盖-在…上方-越过上方" class="headerlink" title="over    覆盖;在…上方;越过上方"></a><strong>over    覆盖;在…上方;越过上方</strong></h3><p><code>可与物体接触或不接触，一般特指正上方</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">The mother put over a blanket over the child(覆盖) </span><br><span class="line">妈妈把毯子盖在孩子的身上</span><br><span class="line">the bridge over the river(在...上方)</span><br><span class="line">在河上的桥</span><br><span class="line">the lamp over the table(在...上方)</span><br><span class="line">在桌上方的灯</span><br><span class="line">the plane flew over the mountain(越过上方)</span><br><span class="line">飞机飞越过高山</span><br><span class="line">The cat climbed over the fence</span><br><span class="line">猫爬过栅栏</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="above-在…的上方"><a href="#above-在…的上方" class="headerlink" title="above    在…的上方"></a>above    在…的上方</h3><p><code>一般指物体上方高出这个平面就行</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">the sky above us	在我们上方的天空</span><br></pre></td></tr></table></figure>
+
+<h3 id="注意-on-over-above三者的区别"><a href="#注意-on-over-above三者的区别" class="headerlink" title="注意:on over above三者的区别"></a>注意:on over above三者的区别</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">on一般表示物体与物体接触</span><br><span class="line">over可以描述动态而above不可以</span><br><span class="line">The cat jumped over the table(不能用above)</span><br><span class="line">兔子越过桌子</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="under-在…下方-与over相对"><a href="#under-在…下方-与over相对" class="headerlink" title="under    在…下方(与over相对)"></a>under    在…下方(与over相对)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">under the desk	在书桌下方</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="below-在…下方-与above相对"><a href="#below-在…下方-与above相对" class="headerlink" title="below    在…下方(与above相对)"></a>below    在…下方(与above相对)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">The fish dived below the surface of the water</span><br><span class="line">鱼潜入水下</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="near-在…附近-在…周边"><a href="#near-在…附近-在…周边" class="headerlink" title="near    在…附近;在…周边"></a>near    在…附近;在…周边</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">near the hospital	在医院附近</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="by和beside-在…旁边-可互换"><a href="#by和beside-在…旁边-可互换" class="headerlink" title="by和beside    在…旁边(可互换)"></a>by和beside    在…旁边(可互换)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">There is a hotel by/beside the river</span><br><span class="line">在河的旁边有个旅馆</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="next-to-靠近-紧挨着"><a href="#next-to-靠近-紧挨着" class="headerlink" title="next to 靠近,紧挨着"></a>next to 靠近,紧挨着</h3><p><code>强调紧接着的下一个相邻</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">the building next to school</span><br><span class="line">紧挨着学校的建筑</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="across-从表面-横过"><a href="#across-从表面-横过" class="headerlink" title="across    (从表面)横过"></a>across    (从表面)横过</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">go across the river</span><br><span class="line">穿过马路</span><br><span class="line">swim across the river</span><br><span class="line">游过河</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="through-从内部-穿过"><a href="#through-从内部-穿过" class="headerlink" title="through    (从内部)穿过"></a>through    (从内部)穿过</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">go through the tunnel </span><br><span class="line">穿过隧道</span><br><span class="line">walk through the forest</span><br><span class="line">闯过森林</span><br><span class="line">look through window</span><br><span class="line">透过窗子看</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="pass-经过-路过"><a href="#pass-经过-路过" class="headerlink" title="pass    经过,路过"></a>pass    经过,路过</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">The old man walked pass the man without saying any words</span><br><span class="line">这个老人从男人身边经过，没有说一句话</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="in-front-of-在…前方"><a href="#in-front-of-在…前方" class="headerlink" title="in front of     在…前方"></a>in front of     在…前方</h3><h3 id="before-在…之前"><a href="#before-在…之前" class="headerlink" title="before    在…之前"></a>before    在…之前</h3><h3 id="behind-在…之后"><a href="#behind-在…之后" class="headerlink" title="behind    在…之后"></a>behind    在…之后</h3><h3 id="between-在…之间"><a href="#between-在…之间" class="headerlink" title="between    在…之间"></a>between    在…之间</h3><h3 id="among-在…之间"><a href="#among-在…之间" class="headerlink" title="among    在…之间"></a>among    在…之间</h3><h3 id="round和around-环绕-围绕"><a href="#round和around-环绕-围绕" class="headerlink" title="round和around    环绕,围绕"></a>round和around    环绕,围绕</h3><h3 id="along-沿着-顺着"><a href="#along-沿着-顺着" class="headerlink" title="along    沿着,顺着"></a>along    沿着,顺着</h3><h3 id="to-向-朝"><a href="#to-向-朝" class="headerlink" title="to    向,朝"></a>to    向,朝</h3><h3 id="toward和towards-朝着…的方向"><a href="#toward和towards-朝着…的方向" class="headerlink" title="toward和towards    朝着…的方向"></a>toward和towards    朝着…的方向</h3><h3 id="onto-到…的上面"><a href="#onto-到…的上面" class="headerlink" title="onto    到…的上面"></a>onto    到…的上面</h3><h3 id="into-到…里面"><a href="#into-到…里面" class="headerlink" title="into    到…里面"></a>into    到…里面</h3><h3 id="out-of-从里面出来"><a href="#out-of-从里面出来" class="headerlink" title="out of    从里面出来"></a>out of    从里面出来</h3><h3 id="opposite-在…对面"><a href="#opposite-在…对面" class="headerlink" title="opposite    在…对面"></a>opposite    在…对面</h3><h3 id="against-与…相反-依-靠"><a href="#against-与…相反-依-靠" class="headerlink" title="against    与…相反,依,靠"></a>against    与…相反,依,靠</h3><h3 id="up-沿…向下"><a href="#up-沿…向下" class="headerlink" title="up    沿…向下"></a>up    沿…向下</h3><h3 id="off-离…距离"><a href="#off-离…距离" class="headerlink" title="off    离…距离"></a>off    离…距离</h3><hr>
 <h2 id="时间介词"><a href="#时间介词" class="headerlink" title="时间介词"></a><strong>时间介词</strong></h2><h3 id="in-在…里面-1"><a href="#in-在…里面-1" class="headerlink" title="in    在…里面"></a><strong>in    在…里面</strong></h3><p><code>在范围相对较大的时间</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">in winter	在冬季</span><br><span class="line">in December		在12月</span><br><span class="line">in 2022		在2020年</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">in winter	在冬季</span><br><span class="line">in December	在12月</span><br><span class="line">in 2022		在2020年</span><br></pre></td></tr></table></figure>
 
 
 
@@ -80,7 +106,7 @@
 
 
 
-<h3 id="before-在…之前"><a href="#before-在…之前" class="headerlink" title="before    在…之前"></a><strong>before    在…之前</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">before Monday	在星期一之前</span><br><span class="line">before 2022		在2022年之前</span><br><span class="line">in the day before yesterday	在前天</span><br></pre></td></tr></table></figure>
+<h3 id="before-在…之前-1"><a href="#before-在…之前-1" class="headerlink" title="before    在…之前"></a><strong>before    在…之前</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">before Monday	在星期一之前</span><br><span class="line">before 2022		在2022年之前</span><br><span class="line">in the day before yesterday	在前天</span><br></pre></td></tr></table></figure>
 
 
 
@@ -103,7 +129,7 @@
 
 
 
-<h3 id="through-通过…方式-穿过"><a href="#through-通过…方式-穿过" class="headerlink" title="through    通过…方式;穿过"></a><strong>through    通过…方式;穿过</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">we succeed through hard work 	我们通过努力工作而成功</span><br></pre></td></tr></table></figure>
+<h3 id="through-通过…方式-穿过"><a href="#through-通过…方式-穿过" class="headerlink" title="through    通过…方式;穿过"></a><strong>through    通过…方式;穿过</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">We succeed through hard work 	我们通过努力工作而成功</span><br></pre></td></tr></table></figure>
 
 
 
@@ -164,8 +190,6 @@
 
 
 
-
-
 <h3 id="on-受到之下…支持-的状态"><a href="#on-受到之下…支持-的状态" class="headerlink" title="on    受到之下…支持(的状态)"></a><strong>on    受到之下…支持(的状态)</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">on a diet	在节食(在节食支持的状态)</span><br><span class="line">on drugs	吃药(在吃药支持的状态)</span><br></pre></td></tr></table></figure>
 
 
@@ -179,7 +203,7 @@
 
 
 <hr>
-<h2 id="排除介词"><a href="#排除介词" class="headerlink" title="排除介词"></a><strong>排除介词</strong></h2><h3 id="besides-除了…还"><a href="#besides-除了…还" class="headerlink" title="besides        除了…还"></a><strong>besides        除了…还</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">I like many fruits besides apples	除了苹果我还喜欢很多水果</span><br></pre></td></tr></table></figure>
+<h2 id="排除介词"><a href="#排除介词" class="headerlink" title="排除介词"></a><strong>排除介词</strong></h2><h3 id="besides-除了…还"><a href="#besides-除了…还" class="headerlink" title="besides        除了…还"></a><strong>besides        除了…还</strong></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">I like a lot of other fruits besides apples	除了苹果我还喜欢很多水果</span><br></pre></td></tr></table></figure>
 
 
 
@@ -194,5 +218,24 @@
       <categories>
         <category>English</category>
       </categories>
+  </entry>
+  <entry>
+    <title>我的第一篇文章</title>
+    <url>/2022/03/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>java</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>苹果</title>
+    <url>/2021/12/06/hello-world/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>HelloWorld</tag>
+      </tags>
   </entry>
 </search>
